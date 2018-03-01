@@ -9,4 +9,4 @@ Jogo de lançamento de dados React (frontend) e C# com WebAPI (backend)
 > * npm install
 > * npm run dev
 
-O FrontEnd será executado na porta 4000
+>O FrontEnd será executado na porta 4000
