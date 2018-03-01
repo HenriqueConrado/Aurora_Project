@@ -1,0 +1,11 @@
+node_modules
+dist
+public
+tests
+*.log
+.vs
+<<<<<<< HEAD
+bin
+=======
+bin
+>>>>>>> 62ed0eb85a0536e4867d50fc8b7e04cd4ebf041a
